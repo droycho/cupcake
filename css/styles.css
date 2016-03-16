@@ -16,3 +16,9 @@ body {
   color: red;
   font-style: italic;
 }
+
+ul{
+  list-style-type: none;
+  text-align: left;
+  margin-left: 40%;
+}
